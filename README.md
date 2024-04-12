@@ -10,4 +10,4 @@ Have an good time.
 
 ### My Skills
 - This Is My Skills :
-https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3](https://skillicons.dev/icons?i=ps,ai,xd,au,blender,sketchup,discord,discordjs,bots,phpstorm,php,html,css,cpp,js,nodejs,lua,py,github,kali,windows,wordpress,vscode,sublime&theme=dark&perline=20
+[![Skills](https://skillicons.dev/icons?i=ps,ai,xd,au,blender,sketchup,discord,discordjs,bots,phpstorm,php,html,css,cpp,js,nodejs,lua,py,github,kali,windows,wordpress,vscode,sublime&theme=dark&perline=20)
